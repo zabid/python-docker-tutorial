@@ -1,5 +1,7 @@
 # Python Docker Tutorials
 
+-https://www.youtube.com/watch?v=0H2miBK_gAk
+
 Learn how use Docker for Python development.
 
 Accompanying repo to my talks at the Docker Community All Hands:
